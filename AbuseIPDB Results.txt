@@ -1,0 +1,54 @@
+0.0.0.0 Results: 
+{"data":{"ipAddress":"0.0.0.0","isPublic":false,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":null,"usageType":"Reserved","isp":"Broadcast RFC1700","domain":null,"hostnames":[],"totalReports":12,"numDistinctUsers":8,"lastReportedAt":"2022-02-12T02:36:57+00:00"}}
+
+103.81.182.1 Results: 
+{"data":{"ipAddress":"103.81.182.1","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":"IN","usageType":"Fixed Line ISP","isp":"Rajasthan Entertainment Pvt Ltd","domain":"denonline.in","hostnames":[],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":"2021-08-24T17:32:25+00:00"}}
+
+40.83.247.108 Results: 
+{"data":{"ipAddress":"40.83.247.108","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":7,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Microsoft Corporation","domain":"microsoft.com","hostnames":[],"totalReports":7,"numDistinctUsers":2,"lastReportedAt":"2022-02-11T10:48:15+00:00"}}
+
+52.114.148.155 Results: 
+{"data":{"ipAddress":"52.114.148.155","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Microsoft Corporation","domain":"microsoft.com","hostnames":[],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+3.229.207.120 Results: 
+{"data":{"ipAddress":"3.229.207.120","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon Data Services NoVa","domain":"amazon.com","hostnames":["ec2-3-229-207-120.compute-1.amazonaws.com"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+52.154.245.177 Results: 
+{"data":{"ipAddress":"52.154.245.177","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Microsoft Corporation","domain":"microsoft.com","hostnames":[],"totalReports":3,"numDistinctUsers":1,"lastReportedAt":"2022-01-17T02:28:47+00:00"}}
+
+13.64.180.106 Results: 
+{"data":{"ipAddress":"13.64.180.106","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Microsoft Corporation","domain":"microsoft.com","hostnames":[],"totalReports":7,"numDistinctUsers":1,"lastReportedAt":"2022-01-28T11:45:30+00:00"}}
+
+162.159.134.234 Results: 
+{"data":{"ipAddress":"162.159.134.234","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":14,"countryCode":"US","usageType":"Content Delivery Network","isp":"CloudFlare Inc.","domain":"cloudflare.com","hostnames":[],"totalReports":3,"numDistinctUsers":3,"lastReportedAt":"2022-01-22T03:56:15+00:00"}}
+
+167.248.133.60 Results: 
+{"data":{"ipAddress":"167.248.133.60","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":100,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Censys Inc.","domain":"censys.io","hostnames":["scanner-09.ch1.censys-scanner.com"],"totalReports":3125,"numDistinctUsers":232,"lastReportedAt":"2022-02-16T23:13:14+00:00"}}
+
+18.209.201.158 Results: 
+{"data":{"ipAddress":"18.209.201.158","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon Technologies Inc.","domain":"amazon.com","hostnames":["ec2-18-209-201-158.compute-1.amazonaws.com"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+72.21.91.29 Results: 
+{"data":{"ipAddress":"72.21.91.29","isPublic":true,"ipVersion":4,"isWhitelisted":true,"abuseConfidenceScore":0,"countryCode":"US","usageType":null,"isp":"Verizon Communications Inc.","domain":"verizon.com","hostnames":[],"totalReports":21,"numDistinctUsers":11,"lastReportedAt":"2022-02-12T22:19:42+00:00"}}
+
+34.216.175.109 Results: 
+{"data":{"ipAddress":"34.216.175.109","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon Technologies Inc.","domain":"amazon.com","hostnames":["ec2-34-216-175-109.us-west-2.compute.amazonaws.com"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+54.201.29.151 Results: 
+{"data":{"ipAddress":"54.201.29.151","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon.com Inc.","domain":"amazon.com","hostnames":["ec2-54-201-29-151.us-west-2.compute.amazonaws.com"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+52.114.132.33 Results: 
+{"data":{"ipAddress":"52.114.132.33","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Microsoft Corporation","domain":"microsoft.com","hostnames":[],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+199.232.78.167 Results: 
+{"data":{"ipAddress":"199.232.78.167","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Content Delivery Network","isp":"Fastly","domain":"fastly.com","hostnames":[],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+1.0.158.59 Results: 
+{"data":{"ipAddress":"1.0.158.59","isPublic":true,"ipVersion":4,"isWhitelisted":null,"abuseConfidenceScore":0,"countryCode":"TH","usageType":null,"isp":"TOT Public Company Limited","domain":"tot.co.th","hostnames":["node-5yz.pool-1-0.dynamic.totinternet.net"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":null}}
+
+127.0.0.1 Results: 
+{"data":{"ipAddress":"127.0.0.1","isPublic":false,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":null,"usageType":"Reserved","isp":"Loopback","domain":null,"hostnames":["localhost"],"totalReports":3076,"numDistinctUsers":156,"lastReportedAt":"2022-02-16T23:59:36+00:00"}}
+
+54.173.95.250 Results: 
+{"data":{"ipAddress":"54.173.95.250","isPublic":true,"ipVersion":4,"isWhitelisted":false,"abuseConfidenceScore":0,"countryCode":"US","usageType":"Data Center\/Web Hosting\/Transit","isp":"Amazon Technologies Inc.","domain":"amazon.com","hostnames":["ec2-54-173-95-250.compute-1.amazonaws.com"],"totalReports":0,"numDistinctUsers":0,"lastReportedAt":"2021-08-05T16:38:18+00:00"}}
+
